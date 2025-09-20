@@ -1,0 +1,83 @@
+INFO:__main__:Server started:2025-09-20 13:24:41	 0.0.0.0:5002
+INFO:__main__:[*] Accepted connection from ('127.0.0.1', 52924)
+INFO:__main__:[*] Accepted connection from ('127.0.0.1', 33336)
+INFO:__main__:[*] Accepted connection from ('127.0.0.1', 47554)
+INFO:__main__:[*] 2025-09-20 13:24:41 Received from Patrick
+INFO:__main__:Server started:2025-09-20 13:27:23	 0.0.0.0:5002
+INFO:__main__:[*] Accepted connection from ('127.0.0.1', 50680)
+INFO:__main__:[*] Accepted connection from ('127.0.0.1', 43290)
+INFO:__main__:[*] Accepted connection from ('127.0.0.1', 43298)
+INFO:__main__:[*] 2025-09-20 13:27:23 Received from Patrick
+INFO:__main__:[*] Forwarded: 2025-09-20 13:27:23
+INFO:__main__:[*] Forwarded: 2025-09-20 13:27:23
+INFO:__main__:[*] Forwarded: 2025-09-20 13:27:23
+INFO:__main__:Server started:2025-09-20 13:48:52	 0.0.0.0:5002
+INFO:__main__:[*] Accepted connection from ('127.0.0.1', 43454)
+INFO:__main__:[*] Accepted connection from ('127.0.0.1', 53694)
+INFO:__main__:[*] Accepted connection from ('127.0.0.1', 37278)
+INFO:__main__:[*] 2025-09-20 13:48:52 Received from Patrick
+ERROR:__main__:Expecting value: line 1 column 1 (char 0)
+ERROR:__main__:Expecting value: line 1 column 1 (char 0)
+INFO:__main__:Server started:2025-09-20 13:50:39	 0.0.0.0:5002
+INFO:__main__:[*] Accepted connection from ('127.0.0.1', 33708)
+INFO:__main__:[*] Accepted connection from ('127.0.0.1', 33606)
+INFO:__main__:[*] Accepted connection from ('127.0.0.1', 39742)
+INFO:__main__:[*] 2025-09-20 13:50:39 Received from Patrick
+INFO:__main__:[*] Forwarded: 2025-09-20 13:50:39	('127.0.0.1', 5002)
+INFO:__main__:[*] Forwarded: 2025-09-20 13:50:39	('127.0.0.1', 5002)
+INFO:__main__:[*] Forwarded: 2025-09-20 13:50:39	('127.0.0.1', 5002)
+ERROR:__main__:Expecting value: line 1 column 1 (char 0)
+INFO:__main__:[*] Forwarded: 2025-09-20 13:50:39	('127.0.0.1', 5002)
+INFO:__main__:[*] Forwarded: 2025-09-20 13:50:39	('127.0.0.1', 5002)
+ERROR:__main__:Expecting value: line 1 column 1 (char 0)
+ERROR:__main__:[Errno 104] Connection reset by peer
+ERROR:__main__:Expecting value: line 1 column 1 (char 0)
+ERROR:__main__:Expecting value: line 1 column 1 (char 0)
+INFO:__main__:Server started:2025-09-20 13:52:50	 0.0.0.0:5002
+INFO:__main__:[*] Accepted connection from ('127.0.0.1', 48224)
+INFO:__main__:[*] Accepted connection from ('127.0.0.1', 45296)
+INFO:__main__:[*] Accepted connection from ('127.0.0.1', 41268)
+INFO:__main__:[*] 2025-09-20 13:52:50 Received from Patrick
+INFO:__main__:[*] Forwarded: 2025-09-20 13:52:50	('127.0.0.1', 5002)
+INFO:__main__:[*] Forwarded: 2025-09-20 13:52:50	('127.0.0.1', 5002)
+INFO:__main__:[*] Forwarded: 2025-09-20 13:52:50	('127.0.0.1', 5002)
+ERROR:__main__:Expecting value: line 1 column 1 (char 0)
+ERROR:__main__:Expecting value: line 1 column 1 (char 0)
+ERROR:__main__:Expecting value: line 1 column 1 (char 0)
+ERROR:__main__:Expecting value: line 1 column 1 (char 0)
+ERROR:__main__:Expecting value: line 1 column 1 (char 0)
+ERROR:__main__:Expecting value: line 1 column 1 (char 0)
+INFO:__main__:Server started:2025-09-20 13:58:17	 0.0.0.0:5002
+INFO:__main__:[*] Accepted connection from ('127.0.0.1', 40458)
+INFO:__main__:[*] Accepted connection from ('127.0.0.1', 58594)
+INFO:__main__:[*] Accepted connection from ('127.0.0.1', 58608)
+INFO:__main__:[*] 2025-09-20 13:58:17 Received from Patrick
+INFO:__main__:[*] Forwarded: 2025-09-20 13:58:17	('127.0.0.1', 40458)
+INFO:__main__:[*] Forwarded: 2025-09-20 13:58:17	('127.0.0.1', 40458)
+INFO:__main__:[*] Forwarded: 2025-09-20 13:58:17	('127.0.0.1', 40458)
+INFO:__main__:[*] 2025-09-20 13:58:17 Received from pat
+INFO:__main__:[*] Forwarded: 2025-09-20 13:58:17	('127.0.0.1', 58594)
+INFO:__main__:[*] Forwarded: 2025-09-20 13:58:17	('127.0.0.1', 58594)
+INFO:__main__:[*] Forwarded: 2025-09-20 13:58:17	('127.0.0.1', 58594)
+INFO:__main__:Server started:2025-09-20 14:00:56	 0.0.0.0:5002
+INFO:__main__:[*] Accepted connection from ('127.0.0.1', 44574)
+INFO:__main__:[*] Accepted connection from ('127.0.0.1', 57214)
+INFO:__main__:[*] Accepted connection from ('127.0.0.1', 43890)
+INFO:__main__:[*] 2025-09-20 14:00:56 Received from Patrick
+INFO:__main__:[*] Forwarded: 2025-09-20 14:00:56	('127.0.0.1', 43890)
+INFO:__main__:[*] Forwarded: 2025-09-20 14:00:56	('127.0.0.1', 57214)
+INFO:__main__:[*] Forwarded: 2025-09-20 14:00:56	('127.0.0.1', 44574)
+INFO:__main__:[*] 2025-09-20 14:00:56 Received from ps
+INFO:__main__:[*] Forwarded: 2025-09-20 14:00:56	('127.0.0.1', 43890)
+INFO:__main__:[*] Forwarded: 2025-09-20 14:00:56	('127.0.0.1', 57214)
+INFO:__main__:[*] Forwarded: 2025-09-20 14:00:56	('127.0.0.1', 44574)
+INFO:__main__:[*] 2025-09-20 14:00:56 Received from pat
+INFO:__main__:[*] Forwarded: 2025-09-20 14:00:56	('127.0.0.1', 43890)
+INFO:__main__:[*] Forwarded: 2025-09-20 14:00:56	('127.0.0.1', 57214)
+INFO:__main__:[*] Forwarded: 2025-09-20 14:00:56	('127.0.0.1', 44574)
+ERROR:__main__:Expecting value: line 1 column 1 (char 0)
+ERROR:__main__:Expecting value: line 1 column 1 (char 0)
+ERROR:__main__:Expecting value: line 1 column 1 (char 0)
+ERROR:__main__:Expecting value: line 1 column 1 (char 0)
+ERROR:__main__:Expecting value: line 1 column 1 (char 0)
+ERROR:__main__:Expecting value: line 1 column 1 (char 0)
