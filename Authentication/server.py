@@ -49,15 +49,7 @@ date_now = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 logger.info(f"Server started:{date_now}\t {SERVER_HOST}:{SERVER_PORT}")
 
 print(f"[*] Listening as {SERVER_HOST}:{SERVER_PORT}")
-file = sys.argv[1]
-print (file)
-with open( file, 'rb' ) as key_file:
-    private_key = serialization.load_ssh_private_key(
-        key_file.read(),
-        password=None,
-    )
 
-public_key = private_key.public_key()
 
 
 def listen_for_client(cs):
@@ -133,3 +125,4 @@ for cs in client_sockets:
     cs.close()
 # close server socket
 s.close()
+
