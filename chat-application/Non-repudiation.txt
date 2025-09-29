@@ -1,0 +1,12 @@
+	Client generates/receives session key
+user enters message
+	client uses key to encrypt message
+	Client creates HMAC of message
+	client send encrypted message  and HMAC to server
+		server receives message
+		Server logs message received from user
+		Server sends message to all clients
+		Server logs message forwarded to each client
+	client receives message
+	client decrypts message using session key
+	client displays message

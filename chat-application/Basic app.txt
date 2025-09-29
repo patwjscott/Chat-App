@@ -1,0 +1,4 @@
+user enter message
+	Client sends message
+		server receives message and forwards to all clients
+	client displays message
