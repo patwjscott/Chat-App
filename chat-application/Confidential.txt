@@ -1,8 +1,0 @@
-	Client generates/receives session key
-user enters message
-	client uses key to encrypt message
-	client send encrypted message to server
-		server relays message to all client
-	client receives message
-	client decrypts message using session key
-	client displays message
